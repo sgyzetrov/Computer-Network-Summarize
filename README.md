@@ -8,7 +8,7 @@
 
 计算机网络（第7版）谢希仁
 
-<img src="https://img1.doubanio.com/view/subject/l/public/s29300537.jpg" style="height: 400px" alt="计算机网络（第7版）谢希仁"/>
+<img src="https://img1.doubanio.com/view/subject/l/public/s29300537.jpg" height=400px alt="计算机网络（第7版）谢希仁"/>
 
 ## Notes
 
